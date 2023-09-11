@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Umbraco.StorageProviders.Cloudinary/bin/Debug/net7.0
+/.vs
+/Umbraco.StorageProviders.Cloudinary/obj
